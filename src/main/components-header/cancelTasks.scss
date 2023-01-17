@@ -1,0 +1,6 @@
+@import "../../index";
+
+.cancelTasks{
+  @include button;
+  background: indianred;
+}

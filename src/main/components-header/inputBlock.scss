@@ -1,0 +1,12 @@
+@import "../../index";
+
+.buttonInputBlock{
+  @include button;
+  margin-right: 10px;
+  background: coral;
+  color: aliceblue;
+}
+
+.input{
+  @include input;
+}

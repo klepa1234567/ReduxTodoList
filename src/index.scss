@@ -1,0 +1,37 @@
+@mixin button {
+  margin-top: 10px;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 10px;
+  border: none;
+  &:hover{
+    cursor: pointer;
+  }
+}
+
+@mixin input{
+  margin-top:10px;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  border: none;
+  background: wheat;
+  &:hover{
+    cursor: pointer;
+  }
+}
+
+@mixin link{
+  margin-left: 10px;
+}
+
+@mixin buttonDelete {
+  background: indianred;
+  color: aliceblue;
+  border-radius: 5px;
+  border: none;
+  &:hover{
+    cursor: pointer;
+  }
+}

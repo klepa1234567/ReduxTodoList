@@ -1,0 +1,9 @@
+@import "../../index";
+
+.completed{
+    display: flex;
+}
+.button{
+    @include buttonDelete;
+    margin-left: 10px;
+}

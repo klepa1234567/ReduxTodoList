@@ -1,0 +1,22 @@
+.taskField{
+    background: dimgray;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.taskFieldTrue{
+    background: lavender;
+}
+
+.checkedTrue{
+    color: green;
+}
+.like{
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    &:hover{
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,6 @@
+@import  "../../index";
+
+.buttonAllTasks{
+  @include button;
+  background: darkseagreen;
+}

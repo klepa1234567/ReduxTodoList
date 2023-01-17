@@ -1,0 +1,7 @@
+@import "../../index";
+
+.deleteAllTask{
+  @include button;
+  background: indianred;
+  color: wheat;
+}

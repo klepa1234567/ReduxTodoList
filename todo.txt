@@ -1,0 +1,8 @@
+type interface
+типы данных number, string, boolean, (object {}), []
+как типизировать функции
+дженерики (generic)
+enum
+
+
+7, 8 и 11 не нужны
